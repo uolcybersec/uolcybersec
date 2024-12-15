@@ -19,8 +19,8 @@
 
 | **Event**             | **Date**       | **Details**               |
 |-----------------------|----------------|---------------------------|
-| Kickoff Meeting       | January 10, 2024 | Discord introduction event |
-| Beginner CTF Workshop | January 20, 2024 | Learn CTF basics          |
+| Kickoff Meeting       | January 15, 2024 | Discord introduction event |
+| Beginner CTF Workshop | January 22, 2024 | Learn CTF basics          |
 
 ---
 
@@ -31,12 +31,13 @@ We welcome all students, from beginners to experienced hackers. Here's how you c
    - [Instagram](https://instagram.com/example)
    - [Discord](https://discord.gg/example)  
    - [LinkedIn](https://linkedin.com/company/example)
+     
 2. **Sign Up for Events**: Check our [website](https://example.com) for the latest updates.
 
 ---
 
 ## 🤝 Collaborate
-We love partnering with other organizations, universities, and professionals. If you're interested in hosting an event, giving a talk, or collaborating, [get in touch](mailto:uolcybersec@example.com).
+We love partnering with other organizations, universities, and professionals. If you're interested in hosting an event, giving a talk, or collaborating, [get in touch](mailto:uolcybersec@gmail.com).
 
 ---
 
