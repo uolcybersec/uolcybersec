@@ -21,7 +21,6 @@
 |-----------------------|----------------|---------------------------|
 | Kickoff Meeting       | January 10, 2024 | Discord introduction event |
 | Beginner CTF Workshop | January 20, 2024 | Learn CTF basics          |
-| Hackathon             | February 5, 2024 | Team-based competition    |
 
 ---
 
@@ -48,7 +47,7 @@ Stay tuned...
 
 ## 📬 Contact Us
 Feel free to reach out with any questions or suggestions:
-- Email: [uolcybersec@example.com](mailto:uolcybersec@gmail.com)
+- Email: [uolcybersec@gmail.com](mailto:uolcybersec@gmail.com)
 - Discord: [Join Here](https://discord.gg/example)
 
 ---
