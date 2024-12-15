@@ -42,9 +42,7 @@ We love partnering with other organizations, universities, and professionals. If
 ---
 
 ## 💻 Resources
-- [Official CyberSec Tools](https://github.com/UoLCyberSec/resources)
-- [CTF Practice Platforms](https://ctftime.org/)
-- [Ethical Hacking Guides](https://example.com/guide)
+Stay tuned...
 
 ---
 
