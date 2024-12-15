@@ -28,7 +28,7 @@
 We welcome all students, from beginners to experienced hackers. Here's how you can get involved:
 
 1. **Follow Us on Social Media**:
-   - [Instagram](https://instagram.com/example)
+   - [Instagram](https://instagram.com/uolcybersec)
    - [Discord](https://discord.gg/example)  
    - [LinkedIn](https://linkedin.com/company/example)
      
