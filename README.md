@@ -1,43 +1,65 @@
 # Welcome to UoLCyberSec 
 ---
-
 ![Cybersec (4)](https://github.com/user-attachments/assets/05c99edc-ecc8-465b-aaf3-23b51a4b969f)
 
-**UoLCyberSec** is the University of London's premier cybersecurity and ethical hacking society. Our mission is to bring together students passionate about cybersecurity, ethical hacking, and digital defense to collaborate, learn, and grow as a community.
+**UoLCyberSec** is the University of London's premier cybersecurity and ethical hacking society.  
+**Status**: We're actively developing a new web app to host CTF challenges and grow our community.  
+
+- **Weekly Dev Meeting**: Sundays at 4 PM GMT on Discord  
+- **Current Focus**: Planning core features, assigning roles, and establishing the tech stack  
 
 ---
 
 ## Our Mission
-- Foster a vibrant community of cybersecurity enthusiasts.
-- Provide hands-on experience with CTFs (Capture the Flag competitions).
-- Organize workshops, events, and guest talks from industry professionals.
-- Collaborate on cybersecurity challenges and real-world problem-solving.
+- Build a vibrant cybersecurity community  
+- Provide hands-on CTF (Capture the Flag) experience  
+- Organize workshops, events, and guest talks  
+- Solve real-world cybersecurity challenges together  
 
 ---
 
 ## 📅 Upcoming Events
 
-| **Event**             | **Date**       | **Details**               |
-|-----------------------|----------------|---------------------------|
-| Kickoff Meeting       | January 15, 2024 | Discord introduction event |
-| Beginner CTF Workshop | January 22, 2024 | Learn CTF basics          |
+| **Event**                   | **Date**           | **Topic**                                     |
+|-----------------------------|--------------------|-----------------------------------------------|
+| Weekly Dev Discord Meeting  | February 9, 2025   | Kickoff Meeting, Tech Stack & Tools           |
+| Weekly Dev Discord Meeting  | February 16, 2025  | Team Roles & Project Goals                    |
+| Weekly Dev Discord Meeting  | February 23, 2025  | Roadmap & Feature Planning                    |
+| Weekly Dev Discord Meeting  | March 2, 2025      | Authentication & Database Setup               |
+|-----------------------------|----exam period-----|-----------------------------------------------|
+| Weekly Dev Discord Meeting  | March 16, 2025     | Frontend UI & Initial Layout                  |
+| Weekly Dev Discord Meeting  | March 23, 2025     | Security Testing & CTF Integration            |
+| Weekly Dev Discord Meeting  | March 30, 2025     | Beta Testing & Bug Fixes                      |
+| Weekly Dev Discord Meeting  | April 6, 2025      | Leaderboards & Profile Implementation         |
+| Weekly Dev Discord Meeting  | April 13, 2025     | Final Launch Prep & Feedback                  |
+
 
 ---
 
-## 🎓 Join Us
-We welcome all students, from beginners to experienced hackers. Here's how you can get involved:
+## 🛠 Ongoing Development
+We’re creating a web app to host CTFs and strengthen our ethical hacking community.  
+- **Weekly Dev Meeting**: Sundays at 4 PM GMT (London Time) on Discord.  
 
-1. **Follow Us on Social Media**:
-   - [Instagram](https://instagram.com/uolcybersec)
-   - [Discord](https://discord.gg/example)  
-   - [LinkedIn](https://linkedin.com/company/example)
-     
-2. **Sign Up for Events**: Check our [website](https://example.com) for the latest updates.
+### Goals
+- Recruit developers, set the tech stack, define features, assign roles.  
+
+### Timeline (Draft)
+- **Phase 1 (Weeks 1-2)**: Tech stack, team roles, GitHub setup  
+- **Phase 2 (Weeks 3-6)**: Backend auth & frontend UI  
+- **Phase 3 (Weeks 7-10)**: Leaderboards, profiles, security testing  
+- **Phase 4 (Week 10+)**: Beta launch & feedback  
+
+---
+
+## 👾 Join Us
+1. **Follow Us**  
+   - [Instagram](https://instagram.com/uolcybersec)  
+   - [Discord](https://discord.gg/5MjSsbxEe8)
 
 ---
 
 ## 🤝 Collaborate
-We love partnering with other organizations, universities, and professionals. If you're interested in hosting an event, giving a talk, or collaborating, [get in touch](mailto:uolcybersec@gmail.com).
+Interested in hosting events or giving talks? Send us a message on discord.
 
 ---
 
@@ -47,10 +69,10 @@ Stay tuned...
 ---
 
 ## 📬 Contact Us
-Feel free to reach out with any questions or suggestions:
-- Email: [uolcybersec@gmail.com](mailto:uolcybersec@gmail.com)
-- Discord: [Join Here](https://discord.gg/example)
+- **Email**: [uolcybersec@gmail.com](mailto:uolcybersec@gmail.com)  
+- **Discord**: [Join Here](https://discord.gg/5MjSsbxEe8)
 
 ---
 
-**Let's secure the digital future together!** 🌐
+**Let’s secure the digital future together!**  
+
